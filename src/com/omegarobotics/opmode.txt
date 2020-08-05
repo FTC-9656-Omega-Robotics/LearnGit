@@ -1,0 +1,11 @@
+Opmodes, or operational modes, are the Java programs
+you will write in order to control your robot in autonomous
+and teleop.
+
+All opmodes written by FTC programmers will extend OpMode
+or LinearOpMode, which are defined in the FTC SDK released
+at the beginning of each season.
+
+OpMode and LinearOpMode are both abstract classes, so
+the programmer will need to implement any abstract methods
+in order for the program to work.

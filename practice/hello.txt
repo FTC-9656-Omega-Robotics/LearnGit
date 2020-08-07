@@ -1,0 +1,3 @@
+Hello world, I am a programmer.
+This is the way the world ends
+Not with a bang, but a whimper
